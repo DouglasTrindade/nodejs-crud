@@ -42,6 +42,9 @@ npm start
 
 Isso iniciará o servidor Node.js. Você pode acessar as rotas CRUD utilizando um cliente HTTP, como o Postman ou o cURL.
 
+## Deploy
+https://nodejs-crud-axfj.onrender.com
+
 ## Contribuindo
 
 Sinta-se à vontade para contribuir com melhorias neste projeto! Basta criar um pull request e ficaremos felizes em revisá-lo.
